@@ -9,7 +9,9 @@ I used the [Disqus Mobile Template](https://github.com/disqus/DISQUS-API-Recipes
 **https://disquscdn.netlify.app**
 
 We pass the necessary variables to that page using query parameters.
-Meant to be used with the [Disqus-CDN Web Component](https://codepen.io/nassimspace/pen/ExZpWVW), but also works without, AND, also works great with **AMP pages**! 
+Meant to be used with the [Disqus-CDN Web Component](https://codepen.io/nassimspace/pen/ExZpWVW), but also works without, AND, also works great with 
+**AMP pages**! 
+
 It is available to anyone who wishes to use this method -
 
 Cheers!🍻
