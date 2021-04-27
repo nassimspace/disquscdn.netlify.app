@@ -1,4 +1,4 @@
-﻿# [Disqus CDN](https://disquscdn.netlify.app) | Disqus Mobile Template hosted on Netlify, meant to be used with the [Disqus-CDN web-component](https://codepen.io/nassimspace/pen/ExZpWVW)
+﻿# [Disqus CDN](https://disquscdn.netlify.app) | Disqus Mobile Template hosted on Netlify, meant to be used with the [Disqus-CDN web-component](https://github.com/nassimspace/disquscdn-web-component).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5ef6f731-8adc-4189-82c9-2d455b39df08/deploy-status)](https://app.netlify.com/sites/disquscdn/deploys)
 
